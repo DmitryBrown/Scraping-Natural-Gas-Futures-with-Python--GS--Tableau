@@ -1,8 +1,8 @@
 # Scraping Natural Gas Futures with Python, GS, Tableau
  
-Welcome to my project page!
+Welcome to my first GitHub project!
 
-This is my personal project to practice my Data Science skills. 
+Thank you for visiting my personal project. This is where I practice my Data Science skills. 
 
 Below is the link to the project Tableau Public page. 
 
