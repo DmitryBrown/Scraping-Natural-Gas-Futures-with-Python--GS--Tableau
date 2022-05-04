@@ -10,7 +10,7 @@ The data is updated every 30 minutes by a Python script I wrote. The script goes
 
 https://public.tableau.com/app/profile/dmitrybrown/viz/NYMEX-HenryHub-ForwardCurves/Strips
 
-These charts are updated every 30 minutes using this Python script. I am using a Batch file with Windows scheduler to run this process. My next step is to redo the scheduling with Powershell. 
+These charts are updated every 30 minutes using this Python script. I am using a Batch file with Windows scheduler to run this process. My next step is to redo the scheduling with Powershell and to replace google sheets with SQL. 
 
 Thank you for visiting my personal project!
 
